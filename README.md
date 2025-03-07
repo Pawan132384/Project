@@ -1,2 +1,2 @@
 # Project
-this is ML proect (LinearRegression)
+this is ML project (LinearRegression)
